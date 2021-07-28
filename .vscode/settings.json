@@ -1,0 +1,8 @@
+{
+  "launch": {
+    "inputs": [],
+    "configurations": [],
+    "compounds": []
+  },
+  "html.customData": ["\"html.format.wrapAttributes\": \"force-expand-multiline\""]
+}
